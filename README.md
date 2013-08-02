@@ -1,3 +1,5 @@
+*This has been forked from [https://github.com/Papercloud/SimpleViewPagerIndicator](https://github.com/Papercloud/SimpleViewPagerIndicator). However, since leaving Papercloud I don't have access to the repository anymore. Any future updates to SimpleViewPagerIndicator will be pushed [here](https://github.com/jarrodrobins/SimpleViewPagerIndicator) instead.*
+
 SimpleViewPagerIndicator
 ========================
 SimpleViewPagerIndicator is a small, easy to use class that you can add to your Android projects to graphically display the number of elements in a ViewPager, as well as allow users to quickly switch pages by touching the page indicators.
