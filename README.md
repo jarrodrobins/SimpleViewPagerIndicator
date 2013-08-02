@@ -44,4 +44,4 @@ Licence
 -------
 This project is licenced under the Apache Licence v2. You may use and change as you wish. No attribution is required.
 
-Developed by Jarrod Robins of [Papercloud](http://www.papercloud.com.au), 2012, 2013.
+Developed by Jarrod Robins 2012, 2013.
