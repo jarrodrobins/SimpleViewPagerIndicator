@@ -107,6 +107,7 @@ public class SimpleViewPagerIndicator extends LinearLayout implements OnPageChan
   public void setViewPager(ViewPager pager) {
     this.pager = pager;
     this.pager.setOnPageChangeListener(this);
+    notifyDataSetChanged();
   }
 
   public OnPageChangeListener getOnPageChangeListener() {
